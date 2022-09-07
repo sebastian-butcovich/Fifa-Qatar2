@@ -1,0 +1,5 @@
+jugadoresLocal =partido obtenerLocal
+indice
+mientras indice < jugadoresLocal.tamanio
+    jugadoresLocal[indice].obtenerNombre
+partido.obtenerSede
