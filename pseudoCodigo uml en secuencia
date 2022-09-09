@@ -1,5 +1,8 @@
 jugadoresLocal =partido obtenerLocal
 indice
 mientras indice < jugadoresLocal.tamanio
-    jugadoresLocal[indice].obtenerNombre
-partido.obtenerSede
+    nombre=jugadoresLocal[indice].obtenerNombre
+    mostrarEnPantalla(nombre);
+    indice++
+nombre=partido.obtenerSede()
+mostrarEnPantalla(nombre)
