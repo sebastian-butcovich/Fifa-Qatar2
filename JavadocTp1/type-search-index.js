@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paquetePrincipal","l":"Estadio"},{"p":"paquetePrincipal","l":"Fecha"},{"p":"paquetePrincipal","l":"Jugador"},{"p":"paquetePrincipal","l":"Partido"},{"p":"paquetePrincipal","l":"Persona"},{"p":"paquetePrincipal","l":"Seleccion"}];updateSearchResults();
