@@ -1,8 +1,0 @@
-jugadoresLocal =partido obtenerLocal
-indice
-mientras indice < jugadoresLocal.tamanio
-    nombre=jugadoresLocal[indice].obtenerNombre
-    mostrarEnPantalla(nombre);
-    indice++
-nombre=partido.obtenerSede()
-mostrarEnPantalla(nombre)

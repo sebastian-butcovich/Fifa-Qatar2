@@ -1,0 +1,8 @@
+Mundial envía mensaje a Premios para obtener los jugadores ganadores de premios individuales
+se crea variable indice
+
+For indice desde 0 a cantidadDePremios
+	EquipoTecnico devuelve ganador de Balón a Premios
+	Premios lo almacena en su variable de instancia
+
+Premios devuelve sus variables de Balones de Oro, Plata y Bronce a Mundial
