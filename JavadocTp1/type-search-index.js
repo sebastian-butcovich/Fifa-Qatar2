@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paquetePrincipal","l":"Seleccion"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paquetePrincipal","l":"Fecha"},{"p":"paquetePrincipal","l":"Jugador"},{"p":"paquetePrincipal","l":"Lugar"},{"p":"paquetePrincipal","l":"Partido"},{"p":"paquetePrincipal","l":"Persona"},{"p":"paquetePrincipal","l":"Seleccion"}];updateSearchResults();
